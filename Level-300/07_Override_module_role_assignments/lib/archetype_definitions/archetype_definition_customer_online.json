@@ -1,0 +1,12 @@
+{
+    "customer_online": {
+      "policy_assignments": ["Deploy-HITRUST-HIPAA", "Deploy-SQL-Auditing"],
+      "policy_definitions": [],
+      "policy_set_definitions": [],
+      "role_definitions": [],
+      "archetype_config": {
+        "parameters": {},
+        "access_control": {}
+      }
+    }
+  }
